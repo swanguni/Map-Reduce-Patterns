@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<comments>
+  <row Id="1" PostId="7" Score="2" Text="Just ask @Robert how annoying this can be..." CreationDate="2010-06-30T19:29:03.500" UserId="17" />
+  <row Id="8" PostId="27" Score="3" Text="When you report an account as spam, it also blocks it." CreationDate="2010-06-30T20:36:17.223" UserId="55" />
+  <row Id="9" PostId="45" Text="It doesn't (yet) work with 2010, though there might have been a recent update" CreationDate="2010-06-30T20:37:28.923" UserId="17" />
+  <row Id="11" PostId="26" Text="Do they allow HD?" CreationDate="2010-06-30T20:37:53.960" UserId="23" />
+  <row Id="14" PostId="26" Score="6" Text="Article on steps to become a partner: http://www.edubook.com/how-to-become-a-youtube-partner/6585/" CreationDate="2010-06-30T20:41:21.660" UserId="95" />
+  <row Id="17" PostId="22" Score="7" Text="What if other sites, like CNet have you setup via Facebook Connect, will visiting c|net count as using it within that two week period?" CreationDate="2010-06-30T20:41:39.770" UserId="72" />
+  <row Id="20" PostId="52" Score="2" Text="Unfortunately, that doesn't really help me know what they define &quot;egregious&quot; to be... I was hoping someone would have had some specific experience with what they'll allow or not allow" CreationDate="2010-06-30T20:43:04.103" UserId="32" />
+</comments>
