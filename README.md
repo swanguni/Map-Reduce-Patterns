@@ -9,7 +9,7 @@ How to use the MapReduce:
 
 Clone the repository:
 ```
-git clone git@github.com:swanguni/mapreducepatterns.git
+git clone git@github.com:swanguni/map-reduce-patterns.git
 ```
 Go in to the folder:
 ```
